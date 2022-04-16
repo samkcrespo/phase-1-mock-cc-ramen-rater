@@ -1,0 +1,7 @@
+{
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+  "editor.bracketPairColorization.enabled": true,
+  "workbench.colorTheme": "Dracula",
+  "editor.tabSize": 2,
+  "bracket-pair-colorizer-2.colorMode": "Consecutive"
+}
